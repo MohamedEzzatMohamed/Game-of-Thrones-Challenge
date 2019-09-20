@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Game of Thrones Challenge</string>
+    <string name="got">Game of Thrones</string>
+    <string name="characters">Characters</string>
+    <string name="houses">Houses</string>
+    <string name="no_internet">No internet connection</string>
+
+
+</resources>
